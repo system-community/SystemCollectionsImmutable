@@ -17,6 +17,11 @@ Add the following lines
 
 - for excactly version
 
+- `1.7.0`
+```csharp
+"com.system-community.systemcollectionsimmutable": "https://github.com/system-community/SystemCollectionsImmutable.git?path=Assets/_Root#1.7.0",
+```
+
 - `1.6.0`
 ```csharp
 "com.system-community.systemcollectionsimmutable": "https://github.com/system-community/SystemCollectionsImmutable.git?path=Assets/_Root#1.6.0",
@@ -28,6 +33,16 @@ To `Packages/manifest.json`
 Add the following lines
 
 - for excactly version
+
+- `1.7.0`
+```csharp
+"com.system-community.systemmemory": "https://github.com/system-community/SystemMemory.git?path=Assets/_Root#4.5.3",
+"com.system-community.systembuffers": "https://github.com/system-community/SystemBuffers.git?path=Assets/_Root#4.4.0",
+"com.system-community.systemnumericsvectors": "https://github.com/system-community/SystemNumericsVectors.git?path=Assets/_Root#4.4.0",
+"com.system-community.systemruntimecompilerservicesunsafe": "https://github.com/system-community/SystemRuntimeCompilerServicesUnsafe.git?path=Assets/_Root#4.5.2",
+"com.system-community.systemcollectionsimmutable": "https://github.com/system-community/SystemCollectionsImmutable.git?path=Assets/_Root#1.7.0",
+```
+
 
 - `1.6.0`
 ```csharp
